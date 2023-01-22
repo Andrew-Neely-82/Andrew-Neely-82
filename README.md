@@ -7,14 +7,7 @@
 <div align="center"> 🌱 I’m currently learning java, python, mySQL, and c#</div>
 <div align="center"> ⚡ Fun fact: I used to be a communications paratrooper in the Army!</div>
 </br>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrew-neely-82&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-neely-82" /> </p>
-</br> -->
-<!-- </br> -->
-<!-- <p align="center"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p> -->
+
 <hr>
 <h2 align="center"><strong>Languages, frameworks, and libraries:</strong></h2>
 <h2><strong>Front End</strong></h2>
@@ -32,7 +25,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159"/>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
@@ -40,7 +33,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
-  <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=36018D"/>
+  <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=csharp&logoColor=white&color=36018D"/>
 </p>
 
 <h2><strong>Other</strong></h2>
@@ -71,6 +64,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew neely" height="30" width="40" />
   </a>
 </div>
+<hr>
 
 <!-- ### Hi there 👋
 
@@ -89,7 +83,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrew-neely-82&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-neely-82" /> </p>
+</br> -->
+<!-- </br> -->
+<!-- <p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p> -->
 
 <!-- ! reference stuff for readme -->
 
