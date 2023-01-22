@@ -52,7 +52,7 @@
 </p>
 
 <hr>
-<h2 align="center"><strong>Github Stats</strong></h2>
+<h2 align="center"><strong>Github Stats:</strong></h2>
 
 <p align="center">
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
