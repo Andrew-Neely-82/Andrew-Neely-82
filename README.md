@@ -16,8 +16,7 @@
   </a> 
 </p> -->
 <hr>
-<h1 align="center"><strong>Languages, frameworks, and libraries:</strong></h1>
-</br>
+<h2 align="center"><strong>Languages, frameworks, and libraries:</strong></h2>
 <h2><strong>Front End</strong></h2>
 
 <p align="left">
