@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew!</h1>
 <h3 align="center">A passionate developer in Texas</h3>
 </br>
-  <li align="center"> 🔭 I’m currently working on <strong>various languages</strong>  to further my skill set</li>
+  <li align="center"> 🔭 I’m currently learning <strong>various languages</strong>  to further my skill set</li>
   <li align="center"> 🌱 I’m currently learning java, python, mySQL, and c#</li>
   <li align="center"> ⚡ Fun fact: I used to be a communications paratrooper in the Army!</li>
 </br>
@@ -14,8 +14,8 @@
   </a> 
 </p> -->
 
-</br>
 <h3 align="center">Languages, frameworks, and libraries:</h3>
+</br>
 <p align="center">
   <!-- * HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -66,20 +66,23 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-</br>
+
 <p align="center">
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh
 ">
 </p>
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&locale=en" alt="andrew-neely-82" />
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-neely-82&show_icons=true&locale=en&layout=compact" alt="andrew-neely-82" />
 </p>
-<!-- <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&locale=en" alt="andrew-neely-82" />
-</p> -->
-<p align="center">
+
+<!-- ? contributions streak -->
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-neely-82&" alt="andrew-neely-82" />
-</p>
+</p> -->
+
 </br>
 <!-- * Connect with me Section -->
 <h3 align="center">Connect with me:</h3>
