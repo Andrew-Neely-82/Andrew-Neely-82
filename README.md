@@ -1,5 +1,6 @@
 <hr>
-<h1 align="center">Hi 👋, I'm Andrew!</h1>
+<h1 align="center">Hi 👋, I'm <strong>Andrew!</strong></h1>
+<h2 align="center"><strong>About me:</strong></h2>
 <h3 align="center">A passionate developer in Texas</h3>
 </br>
 <div align="center"> 🔭 I’m currently learning <strong>various languages</strong>  to further my skill set</div>
@@ -15,20 +16,20 @@
   </a> 
 </p> -->
 <hr>
-<h1 align="center">Languages, frameworks, and libraries:</h1>
+<h1 align="center"><strong>Languages, frameworks, and libraries:</strong></h1>
 
-## Frontend
+<h2><strong>Front End</strong></h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&color=264DE4"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000"/>
 </p>
 
-## Backend
+<h2><strong>Backend</strong></h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -36,14 +37,14 @@
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
-## Programming Languages
+<h2><strong>Programming Languages</strong></h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
   <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=36018D"/>
 </p>
 
-## Other
+<h2><strong>Other</strong></h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
@@ -51,7 +52,7 @@
 </p>
 
 <hr>
-<br>
+<h2 align="center"><strong>Github Stats</strong></h2>
 
 <p align="center">
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh
