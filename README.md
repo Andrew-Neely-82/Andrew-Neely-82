@@ -63,8 +63,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-neely-82&show_icons=true&locale=en&layout=compact" alt="andrew-neely-82" />
 </p>
-
-</br>
 <hr>
 
 <!-- * Connect with me Section -->
