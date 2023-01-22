@@ -17,7 +17,7 @@
 </p> -->
 <hr>
 <h1 align="center"><strong>Languages, frameworks, and libraries:</strong></h1>
-
+<br>
 <h2><strong>Front End</strong></h2>
 
 <p align="left">
