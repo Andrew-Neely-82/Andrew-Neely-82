@@ -55,8 +55,7 @@
 <h2 align="center"><strong>Github Stats</strong></h2>
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh
-">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
 </p>
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&locale=en" alt="andrew-neely-82" />
@@ -67,11 +66,14 @@
 
 </br>
 <hr>
+
 <!-- * Connect with me Section -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/andrew-neely-993633260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew neely" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://linkedin.com/in/andrew-neely-993633260" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew neely" height="30" width="40" />
+  </a>
+</div>
 
 <!-- ### Hi there 👋
 
