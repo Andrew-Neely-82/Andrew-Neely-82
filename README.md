@@ -66,7 +66,7 @@
 <!-- * Connect with me Section -->
 <div align="center">
   <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/andrewneely82" target="blank">
+  <a href="https://linkedin.com/in/andrewneely82" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew neely" height="30" width="40" />
   </a>
 </div>
