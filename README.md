@@ -1,76 +1,134 @@
-<hr>
-<h1 align="center">Hi 👋, I'm <strong>Andrew!</strong></h1>
-<h2 align="center"><strong>About me:</strong></h2>
-<h3 align="center">A passionate developer in Texas</h3>
-</br>
-<div align="center"> 🔭 I’m currently learning <strong>various languages</strong>  to further my skill set</div>
-<div align="center"> 🌱 I’m currently learning java, python, mySQL, and c#</div>
-<div align="center"> ⚡ Fun fact: I used to be a communications paratrooper in the Army!</div>
-</br>
+<style>
+  .bold {
+    font-weight: bold;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .left {
+    text-align: left;
+  }
+
+  .mt-2 {
+    margin-top: 2em;
+  }
+
+  .mb-2 {
+    margin-bottom: 2em;
+  }
+
+  .border {
+    border: 1px solid #fff;
+  }
+</style>
 
 <hr>
-<h2 align="center"><strong>Languages, frameworks, and libraries:</strong></h2>
-<h2><strong>Front End</strong></h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&color=264DE4"/>
-  <img src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass3&color=C76494"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000"/>
-</p>
-
-<h2><strong>Backend</strong></h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159"/>
-  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
-
-<h2><strong>Programming Languages</strong></h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
-  <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=csharp&logoColor=white&color=36018D"/>
-</p>
-
-<h2><strong>Other</strong></h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
-  <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=github&logoColor=white&color=000"/>
-</p>
-
+<!-- header -->
+<h1 class="center">Hi 👋, I'm <span class="bold">Andrew!</span></h1>
+<!-- about me -->
+<h2 class="center bold">About me :</h2>
+<h2 class="center">A passionate junior developer located in Central Texas</h2>
+<!-- tidbits -->
+<div class="center mt-2"> 🔭 I’m currently learning <span class="bold">various languages</span>  to further my skill set</div>
+<div class="center"> 🌱 I’m currently learning <span class="bold">java, python, and C#</span></div>
+<div class="center"> 🤔 I’m looking for help with C#</div>
+<div class="center mb-2"> ⚡ <span class="bold">Fun fact :</span> I used to be a <span class="bold">communications paratrooper in the Army!</span></div>
 <hr>
-<h2 align="center"><strong>Github Stats:</strong></h2>
-</br>
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
-</p>
+<!-- * programming details -->
+<div>
+  <div>
+    <h2 class="center bold">Languages, frameworks, and libraries :</h2>
+    <h2 class="bold">Front End</h2>
+    <p class="left">
+      <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
+      <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&color=264DE4" alt="CSS badge"/>
+      <img src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass3&color=C76494" alt="Sass badge"/>
+      <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF" alt="Bootstrap badge"/>
+      <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" alt="Javascript badge"/>
+      <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery badge"/>
+      <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000" alt="Typescript badge"/>
+    </p>
+  </div>
+  <div>
+    <h2 class="bold">Backend</h2>
+    <div>
+      <p class="left">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159" alt="mySQL badge"/>
+        <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
+      </p>
+    </div>
+  </div>
+  <div>
+    <h2 class="bold">Programming Languages</h2>
+    <div>
+      <p class="left">
+        <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
+        <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=csharp&logoColor=white&color=36018D"/>
+      </p>
+    </div>
+  </div>
+    <div>
+    <h2 class="bold">Other</h2>
+    <div>
+      <p class="left">
+        <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
+        <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=github&logoColor=white&color=000"/>
+      </p>
+    </div>
+  </div>
+</div>
+<hr>
+<div>
+  <h2 class="center bold">Github Stats :</h2>
+  </br>
+  <p class="center">
+    <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
+  </p>
 
-&nbsp; <p align="center">
+&nbsp; <p class="center">
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
 
-</p>
+  </p>
 
-&nbsp; <p align="center">
+&nbsp; <p class="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-neely-82&theme=synthwave&layout=compact)
 
-</p>
+  </p>
+</div>
 
 <hr>
 
 <!-- * Connect with me Section -->
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/andrewneely82" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew neely" height="30" width="40" />
-  </a>
+<div class="center">
+  <h2 class="bold">Connect with me :</h2>
+  <div class="border" style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em; border-radius: 1em;">  
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0 1em 0 1em;">
+      <a href="https://www.linkedin.com/in/andrewneely82" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+      </a>
+      <span><a href="https://www.codepen.io/Andrew-Neely-82" target="_blank" rel="noreferrer">Linked In</a></span>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0 1em 0 1em;">
+      <a href="https://www.codepen.io/Andrew-Neely-82" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>
+      </a>
+      <span><a href="https://www.codepen.io/Andrew-Neely-82" target="_blank" rel="noreferrer">Codepen</a></span>
+    </div>
+  </div>
 </div>
 <hr>
+
+<div class="center">
+  <h2 class="bold">Support me :</h2>
+  <div style="margin: 1em 0;">
+    <a href="https://www.buymeacoffee.com/AndrewNeely82">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="buymeacoffee.com default image"/>
+    </a>
+  </div>
+</div>
 
 <!-- ### Hi there 👋
 
@@ -82,17 +140,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with C#
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrew-neely-82&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-neely-82" /> </p>
+<!-- <p class="center"> <img src="https://komarev.com/ghpvc/?username=andrew-neely-82&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-neely-82" /> </p>
 </br> -->
 <!-- </br> -->
-<!-- <p align="center">
+<!-- <p class="center">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
@@ -101,8 +159,8 @@ Here are some ideas to get you started:
 <!-- ! reference stuff for readme -->
 
 <!-- ? contributions streak -->
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-neely-82&" alt="andrew-neely-82" />
+<!-- <p class="center">
+  <img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-neely-82&" alt="andrew-neely-82" />
 </p> -->
 
 <!-- <div>
@@ -169,6 +227,6 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- github stats -->
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-neely-82&show_icons=true&locale=en&layout=compact" alt="andrew-neely-82" />
+<!-- <p class="center">
+  <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-neely-82&show_icons=true&locale=en&layout=compact" alt="andrew-neely-82" />
 </p> -->
