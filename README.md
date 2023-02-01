@@ -10,11 +10,8 @@
 <br>
 
 #### 🔭 I’m currently learning **various languages** to further my skill set
-
 #### 🌱 I’m currently learning **java, python, and C#**
-
 #### 🤔 I’m looking for help with **C#**
-
 #### ⚡ **Fun fact :** I used to be a **communications paratrooper in the Army!**
 <hr>
 </div>
