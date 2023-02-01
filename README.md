@@ -45,7 +45,9 @@
     </div>
   </div>
     <div>
-    <h2 class="bold">Other</h2>
+
+    ## **Other**
+    
     <div>
       <p class="left">
         <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
@@ -56,20 +58,19 @@
 </div>
 <hr>
 <div>
-  <h2 class="center bold">Github Stats :</h2>
+  
+  ## **Github Stats :**
   </br>
   <p align="center">
     <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
   </p>
 
-&nbsp; <p align="center">
-![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
-
+  &nbsp; <p align="center">
+  ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
   </p>
 
-&nbsp; <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-neely-82&theme=synthwave&layout=compact)
-
+  &nbsp; <p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-neely-82&theme=synthwave&layout=compact)
   </p>
 </div>
 
@@ -77,8 +78,9 @@
 
 <!-- * Connect with me Section -->
 <div align="center">
-  <h2 class="bold">Connect with me :</h2>
-  <div style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em; border: 1px solid white; border-radius: 1em;">  
+  
+  ## **Connect with me :**
+  <div style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em;">  
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0 1em 0 1em;">
       <a href="https://www.linkedin.com/in/andrewneely82" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
@@ -94,9 +96,10 @@
   </div>
 </div>
 <hr>
-
+<!-- * support me area -->
 <div align="center">
-  <h2 class="bold">Support me :</h2>
+
+  ## **Support me :**
   <div style="margin: 1em 0;">
     <a href="https://www.buymeacoffee.com/AndrewNeely82">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="buymeacoffee.com default image"/>
