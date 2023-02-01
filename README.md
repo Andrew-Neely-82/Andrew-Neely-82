@@ -13,7 +13,7 @@
 <!-- * programming details -->
 <div>
   <div>
-    <h2 align="center" style="font-weight: bold;">Languages, frameworks, and libraries :</h2>
+    <h2 align="center"><strong>Languages, frameworks, and libraries :</strong></h2>
     <h2 class="bold">Front End</h2>
     <p class="left">
       <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
