@@ -1,96 +1,112 @@
 <hr>
-<!-- header -->
-<h1 align="center">Hi 👋, I'm <strong>Andrew!</strong></h1>
-<!-- about me -->
-<h2 align="center"><strong>About me :</strong></h2>
-<h3 align="center">A passionate junior developer located in Central Texas</h3>
-<!-- tidbits -->
-<div align="center"> 🔭 I’m currently learning <strong>various languages</strong> to further my skill set</div>
-<div align="center"> 🌱 I’m currently learning <strong>java, python, and C#</strong></div>
-<div align="center"> 🤔 I’m looking for help with C#</div>
-<div align="center" style="margin-bottom: 2em;"> ⚡ <strong>Fun fact :</strong> I used to be a <strong>communications paratrooper in the Army!</strong></div>
+<div align="center">
+
+# Hi 👋, I'm **Andrew!**
+
+## **About me :**
+
+### A passionate **junior developer** located in Central Texas
+
+<br>
+
+#### 🔭 I’m currently learning **various languages** to further my skill set
+
+#### 🌱 I’m currently learning **java, python, and C#**
+
+#### 🤔 I’m looking for help with **C#**
+
+#### ⚡ **Fun fact :** I used to be a **communications paratrooper in the Army!**
+<br>
 <hr>
+</div>
 <!-- * programming details -->
-<div>
-  <h2 align="center"><strong>Languages, frameworks, and libraries :</strong></h2>
-  <h2><strong>Front End</strong></h2>
-  <p align="left">
-    <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
-    <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&color=264DE4" alt="CSS badge"/>
-    <img src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass3&color=C76494" alt="Sass badge"/>
-    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF" alt="Bootstrap badge"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" alt="Javascript badge"/>
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery badge"/>
-    <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000" alt="Typescript badge"/>
-  </p>
+<div align="center">
+
+## **Languages, frameworks, and libraries :**
+<br>
+<div align="left">
+
+## **Front End**
+<div align="left">
+  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&color=264DE4" alt="CSS badge"/>
+  <img src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass3&color=C76494" alt="Sass badge"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF" alt="Bootstrap badge"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" alt="Javascript badge"/>
+  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery badge"/>
+  <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000" alt="Typescript badge"/>
 </div>
 <!-- * backend -->
-<div>
-  <h2><strong>Backend</strong></h2>
-  <p align="left">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159" alt="mySQL badge"/>
-    <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
-  </p>
+
+## **Backend**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159" alt="mySQL badge"/>
+  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
 </div>
 <!-- * programming languages -->
-<div>
-  <h2><strong>Programming Languages</strong></h2>
-    <p align="left">
-      <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
-      <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=csharp&logoColor=white&color=36018D"/>
-    </p>
-</div>
+
+## **Programming Languages**
+
+  <div align="left">
+    <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
+    <img src="https://img.shields.io/badge/c_sharp-%2300f.svg?&style=for-the-badge&logo=csharp&logoColor=white&color=36018D"/>
+  </div>
 <!-- * other -->
-<div>
-  <h2><strong>Other :</strong></h2>
-    <p align="left">
-      <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=gitlogoColor=white&color=f00"/>
-      <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=githublogoColor=white&color=000"/>
-    </p>
-</div>
+
+## **Other**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
+  <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=github&logoColor=white&color=000"/>
+</p>
+
 <hr>
 <div>
 <!-- * github stats -->
-<div>
-  <h2 align="center"><strong>GitHub Stats :</strong></h2>
+<div align="center">
+  
+  ## **GitHub Stats :**
 </div>
-  </br>
-  <p align="center">
+</br>
+<div align="center">
     <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
-  </p>
+  </div>
 <!-- &nbsp; <p align="center">
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues) 
   </p> -->
 
-&nbsp; <p align="center">
+&nbsp; <div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-neely-82&theme=synthwave&layout=compact)
 
-  </p>
+  </div>
 </div>
 
 <hr>
 <!-- * Connect with me Section -->
 <div align="center">
-  <h2><strong>Connect with me :</strong></h2>
-      <a href="https://www.linkedin.com/in/andrewneely82" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
-      </a>
-      &nbsp;
-      <a href="https://www.codepen.io/Andrew-Neely-82" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>
-      </a>
+
+## Connect with me:
+<br>
+
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/andrewneely82) &nbsp;&nbsp; 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>](https://www.codepen.io/Andrew-Neely-82)
 </div>
+
 <hr>
 <!-- * support me area -->
 <div align="center">
-  <h2><strong>Support me :</strong></h2>
+
+  ## **Support me :**
+  <br>
   <div>
     <a href="https://www.buymeacoffee.com/AndrewNeely82">
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="buymeacoffee.com default image"/>
     </a>
   </div>
 </div>
+<hr>
 
 <!-- ### Hi there 👋
 
