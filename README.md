@@ -26,7 +26,7 @@
 <br>
 <div align="left">
 
-## **Front End**
+### **Front End**
 <div align="left">
   <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
   <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&color=264DE4" alt="CSS badge"/>
@@ -38,7 +38,7 @@
 </div>
 <!-- * backend -->
 
-## **Backend**
+### **Backend**
 
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
@@ -47,7 +47,7 @@
 </div>
 <!-- * programming languages -->
 
-## **Programming Languages**
+### **Programming Languages**
 
   <div align="left">
     <img src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=blue&color=F7CE43"/>
@@ -55,7 +55,7 @@
   </div>
 <!-- * other -->
 
-## **Other**
+### **Other**
 
 <p align="left">
   <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
@@ -67,7 +67,7 @@
 <!-- * github stats -->
 <div align="center">
   
-  ## **GitHub Stats :**
+  ### **GitHub Stats :**
 </div>
 </br>
 <div align="center">
@@ -87,7 +87,7 @@
 <!-- * Connect with me Section -->
 <div align="center">
 
-## Connect with me:
+### Connect with me:
 <br>
 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/andrewneely82) &nbsp;&nbsp; 
@@ -98,7 +98,7 @@
 <!-- * support me area -->
 <div align="center">
 
-  ## **Support me :**
+  ### **Support me :**
   <br>
   <div>
     <a href="https://www.buymeacoffee.com/AndrewNeely82">
