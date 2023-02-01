@@ -16,14 +16,12 @@
 #### 🤔 I’m looking for help with **C#**
 
 #### ⚡ **Fun fact :** I used to be a **communications paratrooper in the Army!**
-<br>
 <hr>
 </div>
 <!-- * programming details -->
 <div align="center">
 
 ## **Languages, frameworks, and libraries :**
-<br>
 <div align="left">
 
 ### **Front End**
