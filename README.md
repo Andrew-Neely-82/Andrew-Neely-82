@@ -1,17 +1,16 @@
 <hr>
 <!-- header -->
-<h1 align="center">Hi 👋, I'm <span class="bold">Andrew!</span></h1>
+<h1 align="center">Hi 👋, I'm <strong>Andrew!</strong></h1>
 <!-- about me -->
-<h2 align="center" style="font-weight: bold">About me :</h2>
-<h2 align="center">A passionate junior developer located in Central Texas</h2>
+<h2 align="center"><strong>About me :</strong></h2>
+<h3 align="center">A passionate junior developer located in Central Texas</h3>
 <!-- tidbits -->
-<div class="center mt-2"> 🔭 I’m currently learning <span class="bold">various languages</span>  to further my skill set</div>
-<div align="center"> 🌱 I’m currently learning <span class="bold">java, python, and C#</span></div>
+<div align="center"> 🔭 I’m currently learning <strong>various languages</strong> to further my skill set</div>
+<div align="center"> 🌱 I’m currently learning <strong>java, python, and C#</strong></div>
 <div align="center"> 🤔 I’m looking for help with C#</div>
-<div align="center" style="margin-bottom: 2em;"> ⚡ <span class="bold">Fun fact :</span> I used to be a <span class="bold">communications paratrooper in the Army!</span></div>
+<div align="center" style="margin-bottom: 2em;"> ⚡ <strong>Fun fact :</strong> I used to be a <strong>communications paratrooper in the Army!</strong></div>
 <hr>
 <!-- * programming details -->
-<div>
   <div>
     <h2 align="center"><strong>Languages, frameworks, and libraries :</strong></h2>
     <h2 class="bold">Front End</h2>
@@ -46,17 +45,14 @@
   </div>
     <div>
 
-    ## **Other**
+    ## Other
 
-    <div>
-      <p class="left">
-        <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
-        <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=github&logoColor=white&color=000"/>
-      </p>
-    </div>
+    <p align="left">
+      <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=gitlogoColor=white&color=f00"/>
+      <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=githublogoColor=white&color=000"/>
+    </p>
 
   </div>
-</div>
 <hr>
 <div>
   
