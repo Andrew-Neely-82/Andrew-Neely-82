@@ -1,45 +1,19 @@
-<style>
-  .bold {
-    font-weight: bold;
-  }
-
-  .center {
-    text-align: center;
-  }
-
-  .left {
-    text-align: left;
-  }
-
-  .mt-2 {
-    margin-top: 2em;
-  }
-
-  .mb-2 {
-    margin-bottom: 2em;
-  }
-
-  .border {
-    border: 1px solid #fff;
-  }
-</style>
-
 <hr>
 <!-- header -->
-<h1 class="center">Hi 👋, I'm <span class="bold">Andrew!</span></h1>
+<h1 align="center">Hi 👋, I'm <span class="bold">Andrew!</span></h1>
 <!-- about me -->
-<h2 class="center bold">About me :</h2>
-<h2 class="center">A passionate junior developer located in Central Texas</h2>
+<h2 align="center" style="font-weight: bold">About me :</h2>
+<h2 align="center">A passionate junior developer located in Central Texas</h2>
 <!-- tidbits -->
 <div class="center mt-2"> 🔭 I’m currently learning <span class="bold">various languages</span>  to further my skill set</div>
-<div class="center"> 🌱 I’m currently learning <span class="bold">java, python, and C#</span></div>
-<div class="center"> 🤔 I’m looking for help with C#</div>
-<div class="center mb-2"> ⚡ <span class="bold">Fun fact :</span> I used to be a <span class="bold">communications paratrooper in the Army!</span></div>
+<div align="center"> 🌱 I’m currently learning <span class="bold">java, python, and C#</span></div>
+<div align="center"> 🤔 I’m looking for help with C#</div>
+<div align="center" style="margin-bottom: 2em;"> ⚡ <span class="bold">Fun fact :</span> I used to be a <span class="bold">communications paratrooper in the Army!</span></div>
 <hr>
 <!-- * programming details -->
 <div>
   <div>
-    <h2 class="center bold">Languages, frameworks, and libraries :</h2>
+    <h2 align="center" style="font-weight: bold;">Languages, frameworks, and libraries :</h2>
     <h2 class="bold">Front End</h2>
     <p class="left">
       <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
@@ -84,16 +58,16 @@
 <div>
   <h2 class="center bold">Github Stats :</h2>
   </br>
-  <p class="center">
+  <p align="center">
     <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
   </p>
 
-&nbsp; <p class="center">
+&nbsp; <p align="center">
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
 
   </p>
 
-&nbsp; <p class="center">
+&nbsp; <p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-neely-82&theme=synthwave&layout=compact)
 
   </p>
@@ -102,7 +76,7 @@
 <hr>
 
 <!-- * Connect with me Section -->
-<div class="center">
+<div align="center">
   <h2 class="bold">Connect with me :</h2>
   <div class="border" style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em; border-radius: 1em;">  
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0 1em 0 1em;">
@@ -121,7 +95,7 @@
 </div>
 <hr>
 
-<div class="center">
+<div align="center">
   <h2 class="bold">Support me :</h2>
   <div style="margin: 1em 0;">
     <a href="https://www.buymeacoffee.com/AndrewNeely82">
@@ -147,10 +121,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p class="center"> <img src="https://komarev.com/ghpvc/?username=andrew-neely-82&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-neely-82" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrew-neely-82&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-neely-82" /> </p>
 </br> -->
 <!-- </br> -->
-<!-- <p class="center">
+<!-- <p align="center">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
@@ -159,8 +133,8 @@ Here are some ideas to get you started:
 <!-- ! reference stuff for readme -->
 
 <!-- ? contributions streak -->
-<!-- <p class="center">
-  <img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-neely-82&" alt="andrew-neely-82" />
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-neely-82&" alt="andrew-neely-82" />
 </p> -->
 
 <!-- <div>
@@ -227,6 +201,6 @@ Here are some ideas to get you started:
 </div> -->
 
 <!-- github stats -->
-<!-- <p class="center">
-  <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-neely-82&show_icons=true&locale=en&layout=compact" alt="andrew-neely-82" />
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-neely-82&show_icons=true&locale=en&layout=compact" alt="andrew-neely-82" />
 </p> -->
