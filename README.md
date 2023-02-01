@@ -78,7 +78,7 @@
 <!-- * Connect with me Section -->
 <div align="center">
   <h2 class="bold">Connect with me :</h2>
-  <div class="border" style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em; border-radius: 1em;">  
+  <div style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em; border: 1px solid white; border-radius: 1em;">  
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 0 1em 0 1em;">
       <a href="https://www.linkedin.com/in/andrewneely82" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
