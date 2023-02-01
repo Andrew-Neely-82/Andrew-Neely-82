@@ -84,10 +84,11 @@
   
   ## **Connect with me :**
   <div style="display: flex; justify-content: center; align-items: space-evenly; margin: 1em 0; padding: 1em;">  
-      <a href="https://www.linkedin.com/in/andrewneely82" target="_blank" rel="noreferrer" style="padding: 0 1em;">
+      <a href="https://www.linkedin.com/in/andrewneely82" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
       </a>
-      <a href="https://www.codepen.io/Andrew-Neely-82" target="_blank" rel="noreferrer" style="padding: 0 1em;">
+      &nbsp;
+      <a href="https://www.codepen.io/Andrew-Neely-82" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>
       </a>
   </div>
