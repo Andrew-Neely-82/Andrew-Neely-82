@@ -84,6 +84,8 @@
 
 ### Connect with me:
 <br>
+  
+  <div align="center">
 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/andrewneely82) &nbsp;&nbsp; 
   
