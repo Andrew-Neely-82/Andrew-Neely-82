@@ -86,6 +86,7 @@
 <br>
 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/andrewneely82) &nbsp;&nbsp; 
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="LinkedIn"/>](https://www.twitter.com/devAndrewNeely](https://twitter.com/devAndrewNeely) &nbsp;&nbsp; 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>](https://www.codepen.io/Andrew-Neely-82)
 </div>
 
