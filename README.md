@@ -77,19 +77,22 @@
 
   </div>
 </div>
-
 <hr>
+
 <!-- * Connect with me Section -->
 <div align="center">
 
 ### Connect with me:
-<br>
-
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>](https://www.linkedin.com/in/andrewneely82)
-  
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="LinkedIn"/>](https://www.twitter.com/devAndrewNeely)
-  
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>](https://www.codepen.io/Andrew-Neely-82)
+  <br>
+  <a href="https://www.linkedin.com/in/andrewneely82" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.twitter.com/devAndrewNeely" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.codepen.io/Andrew-Neely-82" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>
+  </a>
 </div>
 
 <hr>
