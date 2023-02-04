@@ -5,13 +5,13 @@
 
 ## **About me :**
 
-### A passionate **junior developer** located in Central Texas
+### A passionate **Junior Developer** located in Central Texas
 
 <br>
 
 #### 🔭 I’m currently learning **various languages** to further my skill set
-#### 🌱 I’m currently learning **React, java, python, and C#**
-#### 🤔 I’m looking for help with **React andC#**
+#### 🌱 I’m currently learning **React, Java, Python, and C#**
+#### 🤔 I’m looking for help with **React and C#**
 #### ⚡ **Fun fact :** I used to be a **communications paratrooper in the Army!**
 <hr>
 </div>
