@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" alt="Javascript badge"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery badge"/>
   <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000" alt="Typescript badge"/>
-  <img src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=000" alt="React badge"/>
+  <img src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&color=aaf" alt="React badge"/>
 </div>
 <!-- * backend -->
 
