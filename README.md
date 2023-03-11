@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159" alt="mySQL badge"/>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
-  <img src="https://img.shields.io/badge/express%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Express JS"/>
+  <img src="https://img.shields.io/badge/express%20-%236DB33F.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express JS"/>
 </div>
 <!-- * programming languages -->
 
