@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF" alt="Bootstrap badge"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" alt="Javascript badge"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery badge"/>
-  <img src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=000color=000" alt="Typescript badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge"/>
   <img src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=react&logoColor=5CCFEE&color=gray" alt="React badge"/>
 </div>
 <!-- * backend -->
