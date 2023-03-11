@@ -57,6 +57,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
   <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=github&logoColor=white&color=000"/>
+  <img src="https://img.shields.io/badge/github%20-%236DB33F.svg?&style=for-the-badge&logo=node&logoColor=green&color=000"/>
 </p>
 
 <hr>
