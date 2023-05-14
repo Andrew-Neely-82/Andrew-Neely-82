@@ -5,13 +5,15 @@
 
 ## **About me :**
 
-### A passionate **Junior Developer** located in Central Texas
+<br>
+
+### -- A passionate **Junior Developer** located in Central Texas --
 
 <br>
 
 #### 🔭 I’m currently learning **various languages** to further my skill set
 #### 🌱 I’m currently learning **React, Java, Python, and C#**
-#### 🤔 I’m looking for help with **React and C#**
+#### 🤔 I’m looking for help with **C# and other OOP Languages**
 #### ⚡ **Fun fact :** I used to be a **communications paratrooper in the Army!**
 <hr>
 </div>
@@ -40,7 +42,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159" alt="mySQL badge"/>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
-  <img src="https://img.shields.io/badge/express%20-%236DB33F.svg?&style=for-the-badge&logo=express&logoColor=green&color=black" alt="Express JS"/>
+  <img src="https://img.shields.io/badge/express%20-%236DB33F.svg?&style=for-the-badge&logo=express&logoColor=green&color=black" alt="Jasmine JS"/>
 </div>
 <!-- * programming languages -->
 
@@ -58,6 +60,7 @@
   <img src="https://img.shields.io/badge/git%20-%236DB33F.svg?&style=for-the-badge&logo=git&logoColor=white&color=f00"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jasmine-6A349F?style=for-the-badge&logo=jasmine&logoColor=white"/>
 </p>
 
 <hr>
@@ -85,7 +88,7 @@
 <!-- * Connect with me Section -->
 <div align="center">
 
-### Connect with me:
+### **Connect with me:**
   <br>
   <a href="https://www.linkedin.com/in/andrewneely82" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
