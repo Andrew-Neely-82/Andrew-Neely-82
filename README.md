@@ -12,27 +12,34 @@
 <br>
 
 #### 🔭 I’m currently learning **various languages** to further my skill set
+
 #### 🌱 I’m currently learning **React, Java, Python, and C#**
+
 #### 🤔 I’m looking for help with **C# and other OOP Languages**
+
 #### ⚡ **Fun fact :** I used to be a **communications paratrooper in the Army!**
+
 <hr>
 </div>
 <!-- * programming details -->
 <div align="center">
 
 ## **Languages, frameworks, and libraries :**
+
 <div align="left">
 
 ### **Front End**
+
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass badge"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass badge"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8815DF" alt="Bootstrap badge"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript badge"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery badge"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge"/>
   <img src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=react&logoColor=5CCFEE&color=gray" alt="React badge"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js badge"/>
 </div>
 <!-- * backend -->
 
@@ -41,8 +48,10 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=fff&color=159" alt="mySQL badge"/>
-  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring badge"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring badge"/>
   <img src="https://img.shields.io/badge/express%20-%236DB33F.svg?&style=for-the-badge&logo=express&logoColor=green&color=black" alt="Jasmine JS"/>
+  <img src="https://img.shields.io/badge/mongo_db-000000?style=for-the-badge&logo=mongodb&logoColor=green" alt="Next.js badge"/>
+
 </div>
 <!-- * programming languages -->
 
@@ -70,15 +79,16 @@
   
   ### **GitHub Stats :**
 </div>
-</br>
-<div align="center">
+<!-- </br> -->
+<!-- <div align="center">
     <img width="660" src="https://github-profile-trophy.vercel.app/?username=andrew-neely-82&theme=juicyfresh">
-  </div>
-<!-- &nbsp; <p align="center">
-![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues) 
-  </p> -->
+  </div> -->
 
-&nbsp; <div align="center">
+<!-- &nbsp; <p align="center">
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-neely-82&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
+  </p> -->
+  <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-neely-82&theme=synthwave&layout=compact)
 
   </div>
@@ -89,6 +99,7 @@
 <div align="center">
 
 ### **Connect with me:**
+
   <br>
   <a href="https://www.linkedin.com/in/andrewneely82" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
@@ -105,7 +116,8 @@
 <!-- * support me area -->
 <div align="center">
 
-  ### **Support me :**
+### **Support me :**
+
   <br>
   <div>
     <a href="https://www.buymeacoffee.com/AndrewNeely82">
