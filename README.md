@@ -105,9 +105,9 @@
   <a href="https://www.linkedin.com/in/andrewneely82" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
-  <a href="https://www.twitter.com/devAndrewNeely" target="_blank">
+<!--   <a href="https://www.twitter.com/devAndrewNeely" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="LinkedIn"/>
-  </a>
+  </a> -->
   <a href="https://www.codepen.io/Andrew-Neely-82" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" alt="codepen image"/>
   </a>
