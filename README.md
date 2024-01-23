@@ -7,6 +7,8 @@
 
 <br>
 
+# Taking time to get my bachelors
+
 ### -- A passionate **Junior Developer** located in Central Texas --
 
 <br>
