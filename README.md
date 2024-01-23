@@ -6,8 +6,13 @@
 ## **About me :**
 
 <br>
+===================================================================
 
-# Taking time to get my bachelors
+### !!! Taking time from coding to get my bachelors !!!
+
+400+ applications sent and the best answer I got was you need a BS!
+
+===================================================================
 
 <br>
 
