@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript badge"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js badge"/>
+  <img src="https://img.shields.io/badge/Vite-cabcab?style=for-the-badge&logo=vite&logoColor=vite" alt="Vite badge"/>
 </div>
 <!-- * backend -->
 
