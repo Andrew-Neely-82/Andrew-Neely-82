@@ -3,23 +3,14 @@
 
 # Hi 👋, I'm **Andrew!**
 
+===================================================================
+
+### !!! Taking a little time from coding to focus on my bachelors !!!
+
+===================================================================
+
 ## **About me :**
-
-<br>
-===================================================================
-
-### !!! Taking time from coding to get my bachelors !!!
-
-400+ applications sent and the best answer I got was you need a BS!
-
-===================================================================
-
-<br>
-
-
-### -- A passionate **Junior Developer** located in Central Texas --
-
-<br>
+### -- A passionate **Developer** located in Central Texas --
 
 #### 🔭 I’m currently learning **various languages** to further my skill set
 
@@ -138,6 +129,14 @@
   </div>
 </div>
 <hr>
+
+
+<div align="center">
+
+### **You are guest number:**
+  <img src="https://komarev.com/ghpvc/?username=Andrew-Neely-82&color=red"/>
+  <p>*As of implementation</p>
+</div>
 
 <!-- ### Hi there 👋
 
